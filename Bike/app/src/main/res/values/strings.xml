@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Bike</string>
+    <string name="title_activity_bike">Map</string>
+    <string name="title_activity_big_brother">Big brother is watching bikes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
